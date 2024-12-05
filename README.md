@@ -38,7 +38,7 @@ To classify whether a customer will respond positively (`yes`) or negatively (`n
 ---
 
 ## Project Structure
-
+```bash
    decision-tree-classifier/
 ├── data/
 │   ├── bank-marketing-dataset.csv      # Original dataset file
@@ -47,7 +47,7 @@ To classify whether a customer will respond positively (`yes`) or negatively (`n
 ├── outputs/
 │   ├── decision_tree_model             # Serialized decision tree model
 ├── README.md                           # Project documentation
-
+```
 ---
 
 ## Results
