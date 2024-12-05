@@ -73,5 +73,14 @@ pip install -r requirements.txt
    ```bash
    python src/decision_tree_classifier.py
    ```
-License
+
+
+    ## Troubleshooting
+If you encounter any issues while running the project, feel free to leave a comment on the GitHub repository, or you can contact me directly at:
+
+Email: kishanss1804@gmail.com
+GitHub: kishanss04
+
+## License
 This project is licensed under the MIT License.
+
