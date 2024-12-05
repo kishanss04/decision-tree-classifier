@@ -39,8 +39,14 @@ To classify whether a customer will respond positively (`yes`) or negatively (`n
 
 ## Project Structure
 
-   decision-tree-classifier-task3/ ├── data/ │ └── bank-marketing-dataset.csv # Dataset file ├── src/ │ └── decision_tree_classifier.py # Python script for model building ├── notebooks/ │ └── exploratory_data_analysis.ipynb # EDA notebook ├── outputs/ │ └── model.pkl # Saved decision tree model ├── README.md # Project documentation └── requirements.txt # List of dependencies
-
+   decision-tree-classifier/
+├── data/
+│   ├── bank-marketing-dataset.csv      # Original dataset file
+├── src/
+│   ├── decision_tree_classifier.py     # Main script for building and evaluating the model
+├── outputs/
+│   ├── decision_tree_model             # Serialized decision tree model
+├── README.md                           # Project documentation
 
 ---
 
